@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/05 19:11:17.000.488,=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 19:11:55.000.628,C:\Shared\unCalck\Unit1.dfm=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/07/05 19:11:55.000.628,C:\Shared\unCalck\Unit1.pas=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 19:12:09.000.753,C:\Shared\unCalck\unCalc.dproj=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.691,=C:\Shared\unCalck\unCompiler.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.863,=C:\Shared\unCalck\UnUDBFunctions.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.769,=C:\Shared\unCalck\unFunctionsClk.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.630,=C:\Shared\unCalck\unCalck.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.878,=C:\Shared\unCalck\unVariables.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.831,=C:\Shared\unCalck\unStalker.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.800,=C:\Shared\unCalck\unStack.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.660,=C:\Shared\unCalck\unCalckConstants.pas</Transaction>
+    <Transaction>2023/07/05 19:14:11.000.722,=C:\Shared\unCalck\unExternals.pas</Transaction>
+    <Transaction>2023/07/05 19:32:31.000.378,=C:\Shared\unCalck\Unit1.pas</Transaction>
+    <Transaction>2023/07/05 19:32:51.000.957,C:\Shared\unCalck\Unit1.pas=C:\Shared\unCalck\UnConstants.pas</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.370,C:\Shared\unCalck\unStack.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.278,C:\Shared\unCalck\unExternals.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.265,C:\Shared\unCalck\UnConstants.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.124,C:\Shared\unCalck\unCalck.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.193,C:\Shared\unCalck\unCompiler.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.326,C:\Shared\unCalck\unFunctionsClk.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.384,C:\Shared\unCalck\unStalker.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:03.000.181,C:\Shared\unCalck\unCalckConstants.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:06.000.425,C:\Shared\unCalck\UnUDBFunctions.pas=</Transaction>
+    <Transaction>2023/07/05 19:42:06.000.441,C:\Shared\unCalck\unVariables.pas=</Transaction>
+    <Transaction>2023/07/05 19:43:45.524,C:\Shared\unCalck\pkUnCalc.dproj=C:\Shared\unCalck\unCalc.dproj</Transaction>
+    <Transaction>2023/07/05 19:44:13.035,C:\Shared\unCalck\unCalc.dproj=C:\Shared\unCalck\pkUnCalc.dproj</Transaction>
+    <Transaction>2023/07/05 19:51:14.863,=C:\Shared\unCalck\DateDialogForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:14.972,=C:\Shared\unCalck\DateTimeDialogForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:15.082,=C:\Shared\unCalck\EnvironmentOptionsForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:15.191,=C:\Shared\unCalck\ExtendedDialogForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:15.316,=C:\Shared\unCalck\findForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:15.425,=C:\Shared\unCalck\IntegerDialogForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:15.535,=C:\Shared\unCalck\StringDialogForm.pas</Transaction>
+    <Transaction>2023/07/05 19:51:15.644,=C:\Shared\unCalck\TimeDialogForm.pas</Transaction>
+    <Transaction>2023/07/05 20:11:55.118,=C:\Shared\unCalck\Unit2.pas</Transaction>
+    <Transaction>2023/07/05 20:12:11.227,C:\Shared\unCalck\frmMain.dfm=C:\Shared\unCalck\Unit2.dfm</Transaction>
+    <Transaction>2023/07/05 20:12:11.227,C:\Shared\unCalck\frmMain.pas=C:\Shared\unCalck\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/07/05 19:43:22.300,=rtl.dcp</Transaction>
+    <Transaction>2023/07/05 19:44:44.349,C:\Shared\unCalck\pkUnCalc.dproj=C:\Users\dima\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2023/07/05 19:45:35.597,=C:\Shared\unCalck\unCalck.pas</Transaction>
+    <Transaction>2023/07/05 19:45:40.550,=C:\Shared\unCalck\unCalckConstants.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.066,=C:\Shared\unCalck\UnCalckEditor.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.113,=C:\Shared\unCalck\unCompiler.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.160,=C:\Shared\unCalck\UnConstants.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.222,=C:\Shared\unCalck\unExternals.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.284,=C:\Shared\unCalck\unFunctionsClk.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.331,=C:\Shared\unCalck\unStack.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.394,=C:\Shared\unCalck\unStalker.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.441,=C:\Shared\unCalck\UnUDBFunctions.pas</Transaction>
+    <Transaction>2023/07/05 19:45:53.488,=C:\Shared\unCalck\unVariables.pas</Transaction>
+    <Transaction>2023/07/05 19:46:26.175,C:\Shared\unCalck\UnCalckEditor.pas=</Transaction>
+    <Transaction>2023/07/05 19:46:40.597,=vcl.dcp</Transaction>
+    <Transaction>2023/07/05 19:46:40.644,=dbrtl.dcp</Transaction>
+    <Transaction>2023/07/05 19:46:40.691,=VclSmp.dcp</Transaction>
+    <Transaction>2023/07/05 19:47:41.097,=C:\Shared\unCalck\DialogForm.pas</Transaction>
+  </Transactions>
+</BorlandProject>
